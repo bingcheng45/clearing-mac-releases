@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="screenshots/overview-dark.png">
-  <img alt="Clearing's Overview: 5.94 GB and 4 simulators can be cleared, with load, memory, disk and booted simulator cards" src="screenshots/overview-light.png">
+  <img alt="Clearing's Overview: 7.39 GB, 4 simulators and 3 worktrees can be cleared, with load, memory, disk and booted simulator cards" src="screenshots/overview-light.png">
 </picture>
 
 ## Why it exists
