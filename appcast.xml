@@ -4,5 +4,14 @@
     <title>Clearing</title>
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sun, 25 Oct 2026 14:52:29 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release of Clearing.</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.0.0/Clearing-1.0.0.zip" type="application/octet-stream" sparkle:edSignature="FQxz8GhUApbAoI7NYqHmnrVcmrGn9TGqnFSBpqxB38ARnYr6eKPZeeWQdfYwy1ajwOqJw2ISJ8+cuNtpWp0kBw==" length="3975179"/>
+    </item>
   </channel>
 </rss>
