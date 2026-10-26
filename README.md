@@ -64,7 +64,12 @@ Installed copies update themselves. You can also choose **Check for Updates…**
 
 Clearing scans as soon as it opens. That first scan never cleans anything, so you can look before anything changes.
 
-1. **Pick your project folders.** Open **Rules** and, under Worktrees, set the folders that hold your repositories (for example `~/Developer`). Clearing only looks for worktrees inside these folders and leaves everything else alone.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/setup-dark.png">
+  <img alt="The first-launch setup: suggested project folders with how many projects each holds, Choose a Folder, and a Search my whole home folder option" src="screenshots/setup-light.png" width="540">
+</picture>
+
+1. **Choose where your projects are.** The first time Clearing opens, it asks where you keep your projects. Pick the parent folder that holds them, such as `~/Developer`. Clearing suggests folders on your Mac that already hold projects, and you can choose more than one. Clearing finds repositories inside these folders, up to 4 folders deep, and only cleans worktrees it finds there. To search everywhere, tick **Search my whole home folder**. macOS may then ask to let Clearing see Desktop, Documents and Downloads. You can skip this step and come back to it from the Worktrees screen, or change the folders later in **Rules**.
 2. **Review the rules.** Each rule says what it does in one line, and the bar at the bottom shows how many items each cleaner would clean with your settings. Change the idle times, the scan interval, or turn automatic cleaning off for either kind.
 3. **Protect what you want to keep.** Select any simulator or worktree and turn on **Protect**. Clearing will always keep it.
 4. **Clean.** Press **Clean** to review the list, then confirm. Or leave automatic cleaning on, and each scheduled scan cleans what is ready.
