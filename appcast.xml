@@ -10,8 +10,7 @@
       <sparkle:version>46</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Choose project folders at first launch</li>
-<li>Default project folder is ~/Developer</li></ul>]]></description>
+      <description><![CDATA[<ul><li>Choose where your projects are when Clearing first opens</li></ul>]]></description>
       <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.0.1/Clearing-1.0.1.zip" type="application/octet-stream" sparkle:edSignature="d+Or25goeioKuXKfy1PdEINCf3I38dM8jnSUtOaAopzLh90JE2Chb7/5Hm3Qvy1ZnURPSJGm8trpt4aYv6lABA==" length="4016721"/>
     </item>
     <item>
