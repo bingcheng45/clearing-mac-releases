@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Tue, 10 Nov 2026 17:00:21 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Delete kept simulators and DerivedData folders anyway (#38)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.2.0/Clearing-1.2.0.zip" type="application/octet-stream" sparkle:edSignature="jIjrQm/icK0caKy7MYKomx/9x4blauVAVMFnplfQyJCWP5igC+SPyQOjjx+P99xAeY00nY4HFQxtEZEjysNjBw==" length="4624223"/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Tue, 10 Nov 2026 14:22:38 +0000</pubDate>
       <sparkle:version>83</sparkle:version>
