@@ -5,6 +5,43 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Tue, 10 Nov 2026 14:22:38 +0000</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Add a Storage screen with safe one-click cache cleans (#35)</li>
+<li>Show disk used per kind on the cleaner cards (#37)</li>
+<li>Remove a kept worktree anyway, with its size and last use (#36)</li>
+<li>Keep a worktree that holds locked files (#29)</li>
+<li>Show the version and an update card at the bottom of the sidebar (#28)</li>
+<li>Give archived Claude sessions' worktrees the usual checks (#27)</li>
+<li>Show the version as MAJOR.MINOR.PATCH without the build in brackets (#26)</li>
+<li>Make read-only folders writable before removing a worktree (#25)</li>
+<li>Let unmerged worktrees go once a branch holds every commit (#23)</li>
+<li>Make main's CI reliable (lock race with launching processes) (#22)</li>
+<li>Clean Xcode DerivedData as a third kind (#21)</li>
+<li>Let ignored junk and main-checkout copies through (#18)</li>
+<li>Scan shows a progress bar that only moves forward (#17)</li>
+<li>Confirmation sheet scrolls its list so Cancel and Clean stay on screen (#16)</li>
+<li>Refuse a release that Sparkle would never offer (#15)</li>
+<li>Keep a copy only of Xcode device names (#14)</li>
+<li>Show the price, warn before the trial ends, confirm deactivation (#13)</li>
+<li>Faster scans with round-robin worktree jobs, one history walk, and parallel probes (#11)</li>
+<li>Agents can only tighten rules and protection, and every change is recorded (#10)</li>
+<li>Quitting or an update waits for a clean, and Activity keeps each finished item (#12)</li>
+<li>Usable at the minimum window, clearer protected and driver copy, distinct destructive color (#8)</li>
+<li>Prune a worktree whose folder is missing only in a clean you start (#3)</li>
+<li>Re-runnable releases, clean dry run, pinned Sparkle tools (#9)</li>
+<li>MCP answers calls concurrently and routes writes by who holds the lock (#6)</li>
+<li>Keep a simulator you are debugging, and match processes to devices in one pass (#7)</li>
+<li>Stop license rechecks from locking paid copies (#1)</li>
+<li>Read the old delete-days setting safely and show the GitHub CLI note only when gh is missing (#4)</li>
+<li>Keep the copy with app data and the most recently used copy, per iOS version (#2)</li>
+<li>Resume the transcript index from a saved cache and skip transcripts older than 30 days (#5)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.1.0/Clearing-1.1.0.zip" type="application/octet-stream" sparkle:edSignature="QV8DK1b7o4N1uRzx7DOtoynUgEXB7pV2qnRlCLjbK0Sy6JnKQ2kLDvMrmxu3GdM7QnmJFKVl18fU6kRBwmslAQ==" length="4604441"/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Mon, 26 Oct 2026 07:35:45 +0000</pubDate>
       <sparkle:version>46</sparkle:version>
