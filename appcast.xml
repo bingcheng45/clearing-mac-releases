@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Fri, 13 Nov 2026 02:39:31 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Show how often each item was used in the last 30 days (#56)</li>
+<li>Show the Trash size and empty it through Finder (#55)</li>
+<li>Chart space freed by kind over time (#54)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.4.0/Clearing-1.4.0.zip" type="application/octet-stream" sparkle:edSignature="88GtDfOUY3fG6X3pMsEdz1aT24Mua2ENkmoOGKlLTaCj0epA5LBfjEhJW3b9rnF1bjuYk6rDyi9+PbH5pPQMCw==" length="5201454"/>
+    </item>
+    <item>
       <title>Version 1.3.2</title>
       <pubDate>Wed, 11 Nov 2026 07:18:27 +0000</pubDate>
       <sparkle:version>99</sparkle:version>
