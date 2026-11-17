@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.5.1</title>
+      <pubDate>Tue, 17 Nov 2026 10:13:15 +0000</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Group ignored names, link PR badges to GitHub, rescan after safe-list changes (#58)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.5.1/Clearing-1.5.1.zip" type="application/octet-stream" sparkle:edSignature="VyYCEH+mEiVTDwLcPIDjH580+IwtENTDmPKJ3x6oOpElZPpK13YC5zqKtj/UR+L7yQbkdVmdyJQmgIWCFMkMDw==" length="5327475"/>
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Tue, 17 Nov 2026 09:09:45 +0000</pubDate>
       <sparkle:version>103</sparkle:version>
