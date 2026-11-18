@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Wed, 18 Nov 2026 12:09:07 +0000</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Group what keeps items from clearing on their own (#63)</li>
+<li>Queue cleans, removals and closes confirmed while another runs (#62)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.8.0/Clearing-1.8.0.zip" type="application/octet-stream" sparkle:edSignature="5Qd95PTlMxoAEsxtUYy0cAuetqJJgYSfcjSKhdPVWuN0EIxxwe6nK15CMJVVCm38THUPlHPd/ZryD2lCRAN1DQ==" length="5741038"/>
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Wed, 18 Nov 2026 11:04:53 +0000</pubDate>
       <sparkle:version>107</sparkle:version>
