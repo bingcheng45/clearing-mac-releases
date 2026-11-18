@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.6.1</title>
+      <pubDate>Wed, 18 Nov 2026 08:22:39 +0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Stop a stray submodule entry from blocking removal (#60)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.6.1/Clearing-1.6.1.zip" type="application/octet-stream" sparkle:edSignature="34XaHQnt19ajQsf4JXH/hXp5Zi4Gr3Hvw8dvhGg32eJjv8Sce8icJgtGiNhh2z3mSFM29ID1jjffY86JKgmaBw==" length="5459048"/>
+    </item>
+    <item>
       <title>Version 1.6.0</title>
       <pubDate>Tue, 17 Nov 2026 15:42:21 +0000</pubDate>
       <sparkle:version>105</sparkle:version>
