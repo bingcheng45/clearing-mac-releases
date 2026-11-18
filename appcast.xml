@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Wed, 18 Nov 2026 11:04:53 +0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Trace disk space folder by folder and remove what is safe (#61)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.7.0/Clearing-1.7.0.zip" type="application/octet-stream" sparkle:edSignature="Av7ELLviZU7mMMyPjrdDLcIGInuiZT0f/vMnJNFzSkKKx4QSdrfXi3yzf8IkDDWArOMd9U5bJNCWXsBWiewpBQ==" length="5696389"/>
+    </item>
+    <item>
       <title>Version 1.6.1</title>
       <pubDate>Wed, 18 Nov 2026 08:22:39 +0000</pubDate>
       <sparkle:version>106</sparkle:version>
