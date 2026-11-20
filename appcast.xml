@@ -5,6 +5,15 @@
     <language>en</language>
     <!-- scripts/release.sh adds each release below this line, newest first. -->
     <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Fri, 20 Nov 2026 14:09:29 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Find and clear what the Claude app keeps on this Mac (#65)</li></ul>]]></description>
+      <enclosure url="https://github.com/bingcheng45/clearing-mac-releases/releases/download/v1.9.0/Clearing-1.9.0.zip" type="application/octet-stream" sparkle:edSignature="wNRKGt1TIlUOPPTdjx3+g/cWsbPsm2WlNXFy/wngiVrxB4DDnDqofIG2rKcLaCY4YCczjj/5TUGnyvLpbSg7AQ==" length="5825430"/>
+    </item>
+    <item>
       <title>Version 1.8.1</title>
       <pubDate>Fri, 20 Nov 2026 08:24:08 +0000</pubDate>
       <sparkle:version>110</sparkle:version>
